@@ -1,0 +1,866 @@
+[
+  {
+    "company_id": "COMP-001",
+    "name": "Rodriguez Figueroa and Sanchez",
+    "industry": "construction",
+    "jurisdiction": "VA",
+    "legal_type": "LLC",
+    "trajectory": "DECLINING",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-002",
+    "name": "Davis and Sons",
+    "industry": "retail",
+    "jurisdiction": "OR",
+    "legal_type": "Corp",
+    "trajectory": "RECOVERING",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-003",
+    "name": "Blake and Sons",
+    "industry": "technology",
+    "jurisdiction": "IL",
+    "legal_type": "LLC",
+    "trajectory": "STABLE",
+    "risk_segment": "HIGH",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-004",
+    "name": "Howard LLC",
+    "industry": "retail",
+    "jurisdiction": "MN",
+    "legal_type": "LLC",
+    "trajectory": "DECLINING",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-005",
+    "name": "Calderon-Montgomery",
+    "industry": "logistics",
+    "jurisdiction": "AK",
+    "legal_type": "S-Corp",
+    "trajectory": "STABLE",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-006",
+    "name": "Delacruz Group",
+    "industry": "technology",
+    "jurisdiction": "PA",
+    "legal_type": "Corp",
+    "trajectory": "DECLINING",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-007",
+    "name": "Wong Lynch and Jackson",
+    "industry": "retail",
+    "jurisdiction": "IL",
+    "legal_type": "Partnership",
+    "trajectory": "GROWTH",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-008",
+    "name": "Perez Inc",
+    "industry": "logistics",
+    "jurisdiction": "WA",
+    "legal_type": "LLC",
+    "trajectory": "DECLINING",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-009",
+    "name": "Rios Group",
+    "industry": "logistics",
+    "jurisdiction": "UT",
+    "legal_type": "Partnership",
+    "trajectory": "RECOVERING",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-010",
+    "name": "Hurst-Ross",
+    "industry": "construction",
+    "jurisdiction": "OH",
+    "legal_type": "LLC",
+    "trajectory": "STABLE",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-011",
+    "name": "Conner Group",
+    "industry": "technology",
+    "jurisdiction": "IL",
+    "legal_type": "LLC",
+    "trajectory": "GROWTH",
+    "risk_segment": "LOW",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-012",
+    "name": "Le Maldonado and Herrera",
+    "industry": "other",
+    "jurisdiction": "DE",
+    "legal_type": "Sole Proprietor",
+    "trajectory": "VOLATILE",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-013",
+    "name": "Liu Baker and Mason",
+    "industry": "technology",
+    "jurisdiction": "WY",
+    "legal_type": "Partnership",
+    "trajectory": "RECOVERING",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-014",
+    "name": "Farmer-Ryan",
+    "industry": "manufacturing",
+    "jurisdiction": "MA",
+    "legal_type": "Sole Proprietor",
+    "trajectory": "STABLE",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-015",
+    "name": "Allen-Allen",
+    "industry": "logistics",
+    "jurisdiction": "KS",
+    "legal_type": "Corp",
+    "trajectory": "STABLE",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-016",
+    "name": "Martin Rose and Obrien",
+    "industry": "healthcare",
+    "jurisdiction": "VT",
+    "legal_type": "S-Corp",
+    "trajectory": "RECOVERING",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-017",
+    "name": "Kim-Holmes",
+    "industry": "logistics",
+    "jurisdiction": "SD",
+    "legal_type": "LLC",
+    "trajectory": "STABLE",
+    "risk_segment": "HIGH",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-018",
+    "name": "Zimmerman Inc",
+    "industry": "manufacturing",
+    "jurisdiction": "HI",
+    "legal_type": "Corp",
+    "trajectory": "DECLINING",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-019",
+    "name": "Ryan Ltd",
+    "industry": "professional_services",
+    "jurisdiction": "CA",
+    "legal_type": "Corp",
+    "trajectory": "VOLATILE",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-020",
+    "name": "Jenkins-Shields",
+    "industry": "retail",
+    "jurisdiction": "AK",
+    "legal_type": "S-Corp",
+    "trajectory": "GROWTH",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-021",
+    "name": "Lee PLC",
+    "industry": "healthcare",
+    "jurisdiction": "SC",
+    "legal_type": "Corp",
+    "trajectory": "VOLATILE",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-022",
+    "name": "Garcia Pearson and Fernandez",
+    "industry": "other",
+    "jurisdiction": "LA",
+    "legal_type": "Partnership",
+    "trajectory": "DECLINING",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-023",
+    "name": "Martin Inc",
+    "industry": "healthcare",
+    "jurisdiction": "WY",
+    "legal_type": "LLC",
+    "trajectory": "GROWTH",
+    "risk_segment": "LOW",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-024",
+    "name": "Stanley Tucker and Lee",
+    "industry": "manufacturing",
+    "jurisdiction": "LA",
+    "legal_type": "S-Corp",
+    "trajectory": "RECOVERING",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-025",
+    "name": "Shaw-Farrell",
+    "industry": "logistics",
+    "jurisdiction": "ID",
+    "legal_type": "LLC",
+    "trajectory": "GROWTH",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-026",
+    "name": "Powell PLC",
+    "industry": "manufacturing",
+    "jurisdiction": "GA",
+    "legal_type": "LLC",
+    "trajectory": "STABLE",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-027",
+    "name": "Harris-Moran",
+    "industry": "other",
+    "jurisdiction": "CT",
+    "legal_type": "Corp",
+    "trajectory": "STABLE",
+    "risk_segment": "LOW",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-028",
+    "name": "Ellis PLC",
+    "industry": "manufacturing",
+    "jurisdiction": "NV",
+    "legal_type": "Sole Proprietor",
+    "trajectory": "DECLINING",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-029",
+    "name": "Wood and Sons",
+    "industry": "construction",
+    "jurisdiction": "NE",
+    "legal_type": "S-Corp",
+    "trajectory": "STABLE",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-030",
+    "name": "Evans Alvarado and Mcmillan",
+    "industry": "construction",
+    "jurisdiction": "SD",
+    "legal_type": "LLC",
+    "trajectory": "RECOVERING",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-031",
+    "name": "Robbins and Sons",
+    "industry": "professional_services",
+    "jurisdiction": "VT",
+    "legal_type": "Corp",
+    "trajectory": "STABLE",
+    "risk_segment": "HIGH",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-032",
+    "name": "Cook and Sons",
+    "industry": "professional_services",
+    "jurisdiction": "SC",
+    "legal_type": "LLC",
+    "trajectory": "GROWTH",
+    "risk_segment": "LOW",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-033",
+    "name": "Mckee Gardner and Davenport",
+    "industry": "other",
+    "jurisdiction": "MA",
+    "legal_type": "S-Corp",
+    "trajectory": "RECOVERING",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-034",
+    "name": "Nolan and Sons",
+    "industry": "logistics",
+    "jurisdiction": "WA",
+    "legal_type": "LLC",
+    "trajectory": "GROWTH",
+    "risk_segment": "HIGH",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-035",
+    "name": "Hancock and Sons",
+    "industry": "logistics",
+    "jurisdiction": "IL",
+    "legal_type": "LLC",
+    "trajectory": "GROWTH",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-036",
+    "name": "Moore-Haynes",
+    "industry": "professional_services",
+    "jurisdiction": "IL",
+    "legal_type": "Corp",
+    "trajectory": "STABLE",
+    "risk_segment": "LOW",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-037",
+    "name": "Walker Ltd",
+    "industry": "healthcare",
+    "jurisdiction": "OK",
+    "legal_type": "Sole Proprietor",
+    "trajectory": "STABLE",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-038",
+    "name": "Frazier-Anthony",
+    "industry": "other",
+    "jurisdiction": "HI",
+    "legal_type": "Corp",
+    "trajectory": "STABLE",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-039",
+    "name": "Carlson LLC",
+    "industry": "manufacturing",
+    "jurisdiction": "NV",
+    "legal_type": "LLC",
+    "trajectory": "STABLE",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-040",
+    "name": "Graham Meyer and Drake",
+    "industry": "technology",
+    "jurisdiction": "AK",
+    "legal_type": "Corp",
+    "trajectory": "GROWTH",
+    "risk_segment": "LOW",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-041",
+    "name": "Hunter-Estrada",
+    "industry": "professional_services",
+    "jurisdiction": "CT",
+    "legal_type": "Corp",
+    "trajectory": "GROWTH",
+    "risk_segment": "LOW",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-042",
+    "name": "Clark-Floyd",
+    "industry": "retail",
+    "jurisdiction": "IL",
+    "legal_type": "Partnership",
+    "trajectory": "RECOVERING",
+    "risk_segment": "HIGH",
+    "compliance_flags": [
+      {
+        "flag_type": "AML_WATCH",
+        "severity": "MEDIUM",
+        "is_active": true,
+        "added_date": "2025-08-27",
+        "note": "Past feeling nature a."
+      }
+    ]
+  },
+  {
+    "company_id": "COMP-043",
+    "name": "Cardenas and Sons",
+    "industry": "construction",
+    "jurisdiction": "IL",
+    "legal_type": "LLC",
+    "trajectory": "VOLATILE",
+    "risk_segment": "HIGH",
+    "compliance_flags": [
+      {
+        "flag_type": "SANCTIONS_REVIEW",
+        "severity": "HIGH",
+        "is_active": true,
+        "added_date": "2025-10-11",
+        "note": "Probably exist professional people."
+      }
+    ]
+  },
+  {
+    "company_id": "COMP-044",
+    "name": "Gibson Ltd",
+    "industry": "healthcare",
+    "jurisdiction": "OK",
+    "legal_type": "Partnership",
+    "trajectory": "GROWTH",
+    "risk_segment": "LOW",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-045",
+    "name": "Osborne and Sons",
+    "industry": "retail",
+    "jurisdiction": "NY",
+    "legal_type": "LLC",
+    "trajectory": "DECLINING",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-046",
+    "name": "Bryant Group",
+    "industry": "construction",
+    "jurisdiction": "WY",
+    "legal_type": "Corp",
+    "trajectory": "STABLE",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-047",
+    "name": "Manning Group",
+    "industry": "healthcare",
+    "jurisdiction": "OH",
+    "legal_type": "LLC",
+    "trajectory": "RECOVERING",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-048",
+    "name": "Gonzales-Reeves",
+    "industry": "manufacturing",
+    "jurisdiction": "MO",
+    "legal_type": "LLC",
+    "trajectory": "RECOVERING",
+    "risk_segment": "HIGH",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-049",
+    "name": "Price-Carrillo",
+    "industry": "construction",
+    "jurisdiction": "IL",
+    "legal_type": "S-Corp",
+    "trajectory": "GROWTH",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": [
+      {
+        "flag_type": "SANCTIONS_REVIEW",
+        "severity": "HIGH",
+        "is_active": false,
+        "added_date": "2024-07-15",
+        "note": "Ask imagine my indeed deal."
+      }
+    ]
+  },
+  {
+    "company_id": "COMP-050",
+    "name": "Castaneda-Ashley",
+    "industry": "manufacturing",
+    "jurisdiction": "NE",
+    "legal_type": "Partnership",
+    "trajectory": "DECLINING",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-051",
+    "name": "Shelton Powell and Martin",
+    "industry": "logistics",
+    "jurisdiction": "LA",
+    "legal_type": "S-Corp",
+    "trajectory": "GROWTH",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-052",
+    "name": "Day and Sons",
+    "industry": "other",
+    "jurisdiction": "OR",
+    "legal_type": "LLC",
+    "trajectory": "DECLINING",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-053",
+    "name": "Cooke LLC",
+    "industry": "professional_services",
+    "jurisdiction": "WA",
+    "legal_type": "LLC",
+    "trajectory": "VOLATILE",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": [
+      {
+        "flag_type": "PEP_LINK",
+        "severity": "MEDIUM",
+        "is_active": false,
+        "added_date": "2026-01-31",
+        "note": "Everything week instead strong like see."
+      }
+    ]
+  },
+  {
+    "company_id": "COMP-054",
+    "name": "Howell and Sons",
+    "industry": "technology",
+    "jurisdiction": "NV",
+    "legal_type": "LLC",
+    "trajectory": "STABLE",
+    "risk_segment": "LOW",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-055",
+    "name": "Jackson-Lawson",
+    "industry": "other",
+    "jurisdiction": "MS",
+    "legal_type": "LLC",
+    "trajectory": "VOLATILE",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-056",
+    "name": "Sanders-Espinoza",
+    "industry": "other",
+    "jurisdiction": "NJ",
+    "legal_type": "Partnership",
+    "trajectory": "VOLATILE",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-057",
+    "name": "Hogan PLC",
+    "industry": "manufacturing",
+    "jurisdiction": "OH",
+    "legal_type": "Corp",
+    "trajectory": "STABLE",
+    "risk_segment": "HIGH",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-058",
+    "name": "Garcia-Yu",
+    "industry": "other",
+    "jurisdiction": "ND",
+    "legal_type": "S-Corp",
+    "trajectory": "STABLE",
+    "risk_segment": "LOW",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-059",
+    "name": "Hampton Marshall and Petersen",
+    "industry": "retail",
+    "jurisdiction": "ND",
+    "legal_type": "Corp",
+    "trajectory": "STABLE",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-060",
+    "name": "Bishop Gray and Johnson",
+    "industry": "professional_services",
+    "jurisdiction": "VT",
+    "legal_type": "S-Corp",
+    "trajectory": "STABLE",
+    "risk_segment": "LOW",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-061",
+    "name": "Chang Vaughn and Brewer",
+    "industry": "healthcare",
+    "jurisdiction": "WA",
+    "legal_type": "Sole Proprietor",
+    "trajectory": "DECLINING",
+    "risk_segment": "HIGH",
+    "compliance_flags": [
+      {
+        "flag_type": "PEP_LINK",
+        "severity": "MEDIUM",
+        "is_active": true,
+        "added_date": "2025-09-14",
+        "note": "New might course drop image."
+      }
+    ]
+  },
+  {
+    "company_id": "COMP-062",
+    "name": "Martinez and Sons",
+    "industry": "construction",
+    "jurisdiction": "LA",
+    "legal_type": "LLC",
+    "trajectory": "GROWTH",
+    "risk_segment": "HIGH",
+    "compliance_flags": [
+      {
+        "flag_type": "AML_WATCH",
+        "severity": "MEDIUM",
+        "is_active": true,
+        "added_date": "2025-08-16",
+        "note": "Hard network gas you nearly goal law fill."
+      }
+    ]
+  },
+  {
+    "company_id": "COMP-063",
+    "name": "Bray Warren and Campbell",
+    "industry": "professional_services",
+    "jurisdiction": "MD",
+    "legal_type": "Sole Proprietor",
+    "trajectory": "VOLATILE",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-064",
+    "name": "Williams-Brown",
+    "industry": "technology",
+    "jurisdiction": "VT",
+    "legal_type": "LLC",
+    "trajectory": "RECOVERING",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-065",
+    "name": "Mitchell Mendoza and Peterson",
+    "industry": "logistics",
+    "jurisdiction": "VA",
+    "legal_type": "LLC",
+    "trajectory": "RECOVERING",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-066",
+    "name": "Parks Hernandez and Shepherd",
+    "industry": "other",
+    "jurisdiction": "HI",
+    "legal_type": "LLC",
+    "trajectory": "STABLE",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-067",
+    "name": "Perez Mills and Hayes",
+    "industry": "professional_services",
+    "jurisdiction": "NV",
+    "legal_type": "Partnership",
+    "trajectory": "STABLE",
+    "risk_segment": "LOW",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-068",
+    "name": "Garcia Farmer and Garrett",
+    "industry": "healthcare",
+    "jurisdiction": "NV",
+    "legal_type": "Partnership",
+    "trajectory": "VOLATILE",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-069",
+    "name": "Norris-Harrison",
+    "industry": "logistics",
+    "jurisdiction": "LA",
+    "legal_type": "Sole Proprietor",
+    "trajectory": "VOLATILE",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-070",
+    "name": "Martin LLC",
+    "industry": "technology",
+    "jurisdiction": "MA",
+    "legal_type": "LLC",
+    "trajectory": "GROWTH",
+    "risk_segment": "HIGH",
+    "compliance_flags": [
+      {
+        "flag_type": "AML_WATCH",
+        "severity": "MEDIUM",
+        "is_active": false,
+        "added_date": "2025-11-23",
+        "note": "Operation sound cup boy different chance enter central."
+      }
+    ]
+  },
+  {
+    "company_id": "COMP-071",
+    "name": "Huff Johnston and Sampson",
+    "industry": "logistics",
+    "jurisdiction": "CT",
+    "legal_type": "S-Corp",
+    "trajectory": "DECLINING",
+    "risk_segment": "HIGH",
+    "compliance_flags": [
+      {
+        "flag_type": "SANCTIONS_REVIEW",
+        "severity": "HIGH",
+        "is_active": true,
+        "added_date": "2025-04-06",
+        "note": "Ball always it focus economy before."
+      }
+    ]
+  },
+  {
+    "company_id": "COMP-072",
+    "name": "Graham Olsen and Costa",
+    "industry": "retail",
+    "jurisdiction": "RI",
+    "legal_type": "LLC",
+    "trajectory": "GROWTH",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-073",
+    "name": "Simpson Bates and Morales",
+    "industry": "technology",
+    "jurisdiction": "IN",
+    "legal_type": "LLC",
+    "trajectory": "RECOVERING",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-074",
+    "name": "Sandoval PLC",
+    "industry": "other",
+    "jurisdiction": "NV",
+    "legal_type": "Partnership",
+    "trajectory": "GROWTH",
+    "risk_segment": "LOW",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-075",
+    "name": "Harris PLC",
+    "industry": "healthcare",
+    "jurisdiction": "MT",
+    "legal_type": "Corp",
+    "trajectory": "GROWTH",
+    "risk_segment": "LOW",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-076",
+    "name": "Mckinney LLC",
+    "industry": "retail",
+    "jurisdiction": "IL",
+    "legal_type": "Corp",
+    "trajectory": "STABLE",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-077",
+    "name": "Cantu-Carter",
+    "industry": "construction",
+    "jurisdiction": "OH",
+    "legal_type": "LLC",
+    "trajectory": "STABLE",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-078",
+    "name": "Romero Suarez and Shields",
+    "industry": "manufacturing",
+    "jurisdiction": "KY",
+    "legal_type": "Partnership",
+    "trajectory": "STABLE",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-079",
+    "name": "Barber-Monroe",
+    "industry": "technology",
+    "jurisdiction": "NJ",
+    "legal_type": "LLC",
+    "trajectory": "GROWTH",
+    "risk_segment": "LOW",
+    "compliance_flags": []
+  },
+  {
+    "company_id": "COMP-080",
+    "name": "Kane-Pollard",
+    "industry": "other",
+    "jurisdiction": "ME",
+    "legal_type": "S-Corp",
+    "trajectory": "GROWTH",
+    "risk_segment": "MEDIUM",
+    "compliance_flags": []
+  }
+]
